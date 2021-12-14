@@ -16,8 +16,6 @@ namespace Virt_lab_25
         {
             InitializeComponent();
         }
-        //public int amountOfFluctationsInput;
-
         private void enterRegister_Click(object sender, EventArgs e)
         {
            if (checkTextBox() && checkTextGroup())
@@ -38,17 +36,14 @@ namespace Virt_lab_25
                 }
             
         }
-
         private void textBoxName_TextChanged(object sender, EventArgs e)
         {
 
         }
-
         private void closeRegister_Click(object sender, EventArgs e)
         {
             Application.Exit();
         }
-
         private bool checkTextBox()
         {
             if ((textBoxName.Text.Trim() == string.Empty))
@@ -62,7 +57,6 @@ namespace Virt_lab_25
             }
             return true;
         }
-
         private bool checkTextGroup()
         {
             if ((textBoxGroup.Text.Trim() == string.Empty))
@@ -77,25 +71,7 @@ namespace Virt_lab_25
             }
             return true;
         }
-
-
-
         private void Register_Load(object sender, EventArgs e)
-        {
-
-        }
-
-       // private void radioButton1_CheckedChanged(object sender, EventArgs e)
-      //  {
-
-      //  }
-
-    //    private void radioButton2_CheckedChanged(object sender, EventArgs e)
-     //   {
-
-      //  }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
         }
