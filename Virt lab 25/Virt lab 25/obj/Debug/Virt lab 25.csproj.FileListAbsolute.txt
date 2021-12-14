@@ -1,0 +1,218 @@
+C:\Users\tjuri\source\repos\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe.config
+C:\Users\tjuri\source\repos\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe
+C:\Users\tjuri\source\repos\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.pdb
+C:\Users\tjuri\source\repos\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form1.resources
+C:\Users\tjuri\source\repos\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Properties.Resources.resources
+C:\Users\tjuri\source\repos\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.GenerateResource.cache
+C:\Users\tjuri\source\repos\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.CoreCompileInputs.cache
+C:\Users\tjuri\source\repos\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.exe
+C:\Users\tjuri\source\repos\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.pdb
+C:\Users\tjuri\source\repos\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form2.resources
+C:\Users\tjuri\source\repos\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Register.resources
+C:\Users\tjuri\source\repos\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.AssemblyReference.cache
+C:\Users\79509\Desktop\lab-main\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe.config
+C:\Users\79509\Desktop\lab-main\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe
+C:\Users\79509\Desktop\lab-main\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.pdb
+C:\Users\79509\Desktop\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.AssemblyReference.cache
+C:\Users\79509\Desktop\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form1.resources
+C:\Users\79509\Desktop\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form2.resources
+C:\Users\79509\Desktop\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.metodichka.resources
+C:\Users\79509\Desktop\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Properties.Resources.resources
+C:\Users\79509\Desktop\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Register.resources
+C:\Users\79509\Desktop\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.GenerateResource.cache
+C:\Users\79509\Desktop\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.CoreCompileInputs.cache
+C:\Users\79509\Desktop\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.exe
+C:\Users\79509\Desktop\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.pdb
+C:\Users\tjuri\Desktop\lab-main\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe.config
+C:\Users\tjuri\Desktop\lab-main\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe
+C:\Users\tjuri\Desktop\lab-main\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.pdb
+C:\Users\tjuri\Desktop\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.AssemblyReference.cache
+C:\Users\tjuri\Desktop\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form1.resources
+C:\Users\tjuri\Desktop\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form2.resources
+C:\Users\tjuri\Desktop\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.metodichka.resources
+C:\Users\tjuri\Desktop\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Properties.Resources.resources
+C:\Users\tjuri\Desktop\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Register.resources
+C:\Users\tjuri\Desktop\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.GenerateResource.cache
+C:\Users\tjuri\Desktop\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.CoreCompileInputs.cache
+C:\Users\tjuri\Desktop\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.exe
+C:\Users\tjuri\Desktop\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.pdb
+C:\Users\tjuri\Desktop\универ\lab-main\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe.config
+C:\Users\tjuri\Desktop\универ\lab-main\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe
+C:\Users\tjuri\Desktop\универ\lab-main\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.pdb
+C:\Users\tjuri\Desktop\универ\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.AssemblyReference.cache
+C:\Users\tjuri\Desktop\универ\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form1.resources
+C:\Users\tjuri\Desktop\универ\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form2.resources
+C:\Users\tjuri\Desktop\универ\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.metodichka.resources
+C:\Users\tjuri\Desktop\универ\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Properties.Resources.resources
+C:\Users\tjuri\Desktop\универ\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Register.resources
+C:\Users\tjuri\Desktop\универ\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.GenerateResource.cache
+C:\Users\tjuri\Desktop\универ\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.CoreCompileInputs.cache
+C:\Users\tjuri\Desktop\универ\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.exe
+C:\Users\tjuri\Desktop\универ\lab-main\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.pdb
+C:\Users\tjuri\Source\Repos\LoneCoala\lab\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe.config
+C:\Users\tjuri\Source\Repos\LoneCoala\lab\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe
+C:\Users\tjuri\Source\Repos\LoneCoala\lab\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.pdb
+C:\Users\tjuri\Source\Repos\LoneCoala\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.AssemblyReference.cache
+C:\Users\tjuri\Source\Repos\LoneCoala\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form1.resources
+C:\Users\tjuri\Source\Repos\LoneCoala\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form2.resources
+C:\Users\tjuri\Source\Repos\LoneCoala\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.metodichka.resources
+C:\Users\tjuri\Source\Repos\LoneCoala\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Properties.Resources.resources
+C:\Users\tjuri\Source\Repos\LoneCoala\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Register.resources
+C:\Users\tjuri\Source\Repos\LoneCoala\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.GenerateResource.cache
+C:\Users\tjuri\Source\Repos\LoneCoala\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.CoreCompileInputs.cache
+C:\Users\tjuri\Source\Repos\LoneCoala\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.exe
+C:\Users\tjuri\Source\Repos\LoneCoala\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.pdb
+C:\Users\tjuri\source\repos\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.AssemblyReference.cache
+C:\Users\tjuri\source\repos\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form1.resources
+C:\Users\tjuri\source\repos\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form2.resources
+C:\Users\tjuri\source\repos\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Properties.Resources.resources
+C:\Users\tjuri\source\repos\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Register.resources
+C:\Users\tjuri\source\repos\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.GenerateResource.cache
+C:\Users\tjuri\source\repos\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.CoreCompileInputs.cache
+C:\Users\tjuri\source\repos\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.exe
+C:\Users\tjuri\source\repos\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.pdb
+C:\Users\tjuri\source\repos\lab\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe.config
+C:\Users\tjuri\source\repos\lab\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe
+C:\Users\tjuri\source\repos\lab\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.pdb
+C:\Users\tjuri\source\repos\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form3.resources
+C:\Users\clixo\Source\Repos\LoneCoala\lab\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe.config
+C:\Users\clixo\Source\Repos\LoneCoala\lab\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe
+C:\Users\clixo\Source\Repos\LoneCoala\lab\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.pdb
+C:\Users\clixo\Source\Repos\LoneCoala\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.AssemblyReference.cache
+C:\Users\clixo\Source\Repos\LoneCoala\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form1.resources
+C:\Users\clixo\Source\Repos\LoneCoala\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form2.resources
+C:\Users\clixo\Source\Repos\LoneCoala\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form3.resources
+C:\Users\clixo\Source\Repos\LoneCoala\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Properties.Resources.resources
+C:\Users\clixo\Source\Repos\LoneCoala\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Register.resources
+C:\Users\clixo\Source\Repos\LoneCoala\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.GenerateResource.cache
+C:\Users\clixo\Source\Repos\LoneCoala\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.CoreCompileInputs.cache
+C:\Users\clixo\Source\Repos\LoneCoala\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.exe
+C:\Users\clixo\Source\Repos\LoneCoala\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.pdb
+C:\down\huynya\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.exe
+C:\down\huynya\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.pdb
+C:\down\huynya\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe.config
+C:\down\huynya\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe
+C:\down\huynya\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.pdb
+C:\down\huynya\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csprojAssemblyReference.cache
+C:\down\huynya\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form1.resources
+C:\down\huynya\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form2.resources
+C:\down\huynya\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form3.resources
+C:\down\huynya\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Properties.Resources.resources
+C:\down\huynya\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Register.resources
+C:\down\huynya\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.GenerateResource.cache
+C:\down\huynya\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.CoreCompileInputs.cache
+C:\down\lab25\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe.config
+C:\down\lab25\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe
+C:\down\lab25\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.pdb
+C:\down\lab25\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csprojAssemblyReference.cache
+C:\down\lab25\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form1.resources
+C:\down\lab25\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form2.resources
+C:\down\lab25\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form3.resources
+C:\down\lab25\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Properties.Resources.resources
+C:\down\lab25\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Register.resources
+C:\down\lab25\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.GenerateResource.cache
+C:\down\lab25\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.CoreCompileInputs.cache
+C:\down\lab25\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.exe
+C:\down\lab25\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.pdb
+C:\Users\clixo\RiderProjects\lab\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe.config
+C:\Users\clixo\RiderProjects\lab\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe
+C:\Users\clixo\RiderProjects\lab\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.pdb
+C:\Users\clixo\RiderProjects\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.AssemblyReference.cache
+C:\Users\clixo\RiderProjects\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form1.resources
+C:\Users\clixo\RiderProjects\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form2.resources
+C:\Users\clixo\RiderProjects\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form3.resources
+C:\Users\clixo\RiderProjects\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Properties.Resources.resources
+C:\Users\clixo\RiderProjects\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Register.resources
+C:\Users\clixo\RiderProjects\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.GenerateResource.cache
+C:\Users\clixo\RiderProjects\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.CoreCompileInputs.cache
+C:\Users\clixo\RiderProjects\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.exe
+C:\Users\clixo\RiderProjects\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.pdb
+C:\Users\arsen\source\repos\lab25\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe.config
+C:\Users\arsen\source\repos\lab25\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe
+C:\Users\arsen\source\repos\lab25\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.pdb
+C:\Users\arsen\source\repos\lab25\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.AssemblyReference.cache
+C:\Users\arsen\source\repos\lab25\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form1.resources
+C:\Users\arsen\source\repos\lab25\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form2.resources
+C:\Users\arsen\source\repos\lab25\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form3.resources
+C:\Users\arsen\source\repos\lab25\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Properties.Resources.resources
+C:\Users\arsen\source\repos\lab25\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Register.resources
+C:\Users\arsen\source\repos\lab25\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.GenerateResource.cache
+C:\Users\arsen\source\repos\lab25\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.CoreCompileInputs.cache
+C:\Users\arsen\source\repos\lab25\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.exe
+C:\Users\arsen\source\repos\lab25\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.pdb
+C:\Users\clixo\RiderProjects\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Protocol.resources
+C:\Users\tjuri\source\repos\lab\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Protocol.resources
+C:\down\lab25\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Protocol.resources
+C:\Users\tjuri\source\repos\labka\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe.config
+C:\Users\tjuri\source\repos\labka\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe
+C:\Users\tjuri\source\repos\labka\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.pdb
+C:\Users\tjuri\source\repos\labka\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.AssemblyReference.cache
+C:\Users\tjuri\source\repos\labka\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form1.resources
+C:\Users\tjuri\source\repos\labka\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form2.resources
+C:\Users\tjuri\source\repos\labka\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form3.resources
+C:\Users\tjuri\source\repos\labka\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Properties.Resources.resources
+C:\Users\tjuri\source\repos\labka\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Protocol.resources
+C:\Users\tjuri\source\repos\labka\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Register.resources
+C:\Users\tjuri\source\repos\labka\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.GenerateResource.cache
+C:\Users\tjuri\source\repos\labka\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.CoreCompileInputs.cache
+C:\Users\tjuri\source\repos\labka\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.exe
+C:\Users\tjuri\source\repos\labka\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.pdb
+C:\Users\arsen\source\repos\lab25\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Protocol.resources
+C:\Users\clixo\RiderProjects\lab228\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe.config
+C:\Users\clixo\RiderProjects\lab228\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe
+C:\Users\clixo\RiderProjects\lab228\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.pdb
+C:\Users\clixo\RiderProjects\lab228\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.AssemblyReference.cache
+C:\Users\clixo\RiderProjects\lab228\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form1.resources
+C:\Users\clixo\RiderProjects\lab228\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form2.resources
+C:\Users\clixo\RiderProjects\lab228\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form3.resources
+C:\Users\clixo\RiderProjects\lab228\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Properties.Resources.resources
+C:\Users\clixo\RiderProjects\lab228\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Protocol.resources
+C:\Users\clixo\RiderProjects\lab228\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Register.resources
+C:\Users\clixo\RiderProjects\lab228\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.GenerateResource.cache
+C:\Users\clixo\RiderProjects\lab228\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.CoreCompileInputs.cache
+C:\Users\clixo\RiderProjects\lab228\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.exe
+C:\Users\clixo\RiderProjects\lab228\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.pdb
+C:\Users\79509\Desktop\labashizika\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe.config
+C:\Users\79509\Desktop\labashizika\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe
+C:\Users\79509\Desktop\labashizika\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.pdb
+C:\Users\79509\Desktop\labashizika\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.AssemblyReference.cache
+C:\Users\79509\Desktop\labashizika\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form1.resources
+C:\Users\79509\Desktop\labashizika\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form2.resources
+C:\Users\79509\Desktop\labashizika\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form3.resources
+C:\Users\79509\Desktop\labashizika\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Properties.Resources.resources
+C:\Users\79509\Desktop\labashizika\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Protocol.resources
+C:\Users\79509\Desktop\labashizika\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Register.resources
+C:\Users\79509\Desktop\labashizika\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.GenerateResource.cache
+C:\Users\79509\Desktop\labashizika\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.CoreCompileInputs.cache
+C:\Users\79509\Desktop\labashizika\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.exe
+C:\Users\79509\Desktop\labashizika\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.pdb
+C:\Users\arsen\Source\Repos\lab55\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe.config
+C:\Users\arsen\Source\Repos\lab55\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe
+C:\Users\arsen\Source\Repos\lab55\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.pdb
+C:\Users\arsen\Source\Repos\lab55\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.AssemblyReference.cache
+C:\Users\arsen\Source\Repos\lab55\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form1.resources
+C:\Users\arsen\Source\Repos\lab55\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form2.resources
+C:\Users\arsen\Source\Repos\lab55\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form3.resources
+C:\Users\arsen\Source\Repos\lab55\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Properties.Resources.resources
+C:\Users\arsen\Source\Repos\lab55\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Protocol.resources
+C:\Users\arsen\Source\Repos\lab55\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Register.resources
+C:\Users\arsen\Source\Repos\lab55\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.GenerateResource.cache
+C:\Users\arsen\Source\Repos\lab55\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.CoreCompileInputs.cache
+C:\Users\arsen\Source\Repos\lab55\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.exe
+C:\Users\arsen\Source\Repos\lab55\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.pdb
+C:\Users\clixo\RiderProjects\lab228\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.ProtocolImport.resources
+C:\Users\arsen\Source\Repos\laba\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe.config
+C:\Users\arsen\Source\Repos\laba\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe
+C:\Users\arsen\Source\Repos\laba\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.pdb
+C:\Users\arsen\Source\Repos\laba\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.AssemblyReference.cache
+C:\Users\arsen\Source\Repos\laba\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form1.resources
+C:\Users\arsen\Source\Repos\laba\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form2.resources
+C:\Users\arsen\Source\Repos\laba\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form3.resources
+C:\Users\arsen\Source\Repos\laba\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Properties.Resources.resources
+C:\Users\arsen\Source\Repos\laba\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Protocol.resources
+C:\Users\arsen\Source\Repos\laba\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.ProtocolImport.resources
+C:\Users\arsen\Source\Repos\laba\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Register.resources
+C:\Users\arsen\Source\Repos\laba\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.GenerateResource.cache
+C:\Users\arsen\Source\Repos\laba\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.CoreCompileInputs.cache
+C:\Users\arsen\Source\Repos\laba\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.exe
+C:\Users\arsen\Source\Repos\laba\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.pdb
