@@ -37,13 +37,18 @@ namespace Virt_lab_25
            
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+
+        
+    private void Form1_Load(object sender, EventArgs e)
         {
             dataGridView1.Hide();
             dataGridView2.Hide();
+            richTextBox1.Hide();
+            richTextBox2.Hide();
+            richTextBox3.Hide();
             dataGridView1.RowHeadersVisible = false;
             dataGridView2.RowHeadersVisible = false;
-            dataGridView1.Columns[0].Width = 0;
+            dataGridView2.AllowUserToResizeRows = false;
             int quantity1 = 0;
             int columns1 = 3;
             for (int i = 0; i < columns1; i++) // заполнение 1-3 строки 1 таблицы постоянного тока 
@@ -52,14 +57,26 @@ namespace Virt_lab_25
                 dataGridView1.Rows[i].Cells[0].Value = quantity1 + 1;
                 quantity1++;
             }
-            int quantity2 = -1;
-            int columns2 = 4;
-              for (int i = 0; i < columns2; i++) // заполнение 1-3 строки 2 таблицы переменного тока 
+            int quantity2 = 0;
+            int columns2 = 12;
+
+             dataGridView2.Rows.Add(12);
+            for (int i = 0; i < columns2; i++)           // заполнение всех строк 2 таблицы переменного тока      // Строки 0,4,8 не проверяем на значения, они должны быть пустые!
             {
-                dataGridView2.Rows.Add();
-                dataGridView2.Rows[i].Cells[0].Value = quantity2 + 1;
-                quantity2++;
+                if((i == 0) || (i==4) || (i==8))
+                {
+                    quantity2 = 0;
+                }
+                else
+                {
+                    dataGridView2.Rows[i].Cells[0].Value = quantity2 + 1;
+                    quantity2++;
+                }
+
             }
+
+
+
 
 
         }
@@ -93,6 +110,9 @@ namespace Virt_lab_25
         {
             dataGridView1.Show();
             dataGridView2.Hide();
+            richTextBox1.Hide();
+            richTextBox2.Hide();
+            richTextBox3.Hide();
 
         }
 
@@ -100,6 +120,9 @@ namespace Virt_lab_25
         {
             dataGridView1.Hide();
             dataGridView2.Show();
+            richTextBox1.Show();
+            richTextBox2.Show();
+            richTextBox3.Show();
 
         }
 

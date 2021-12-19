@@ -163,6 +163,16 @@ namespace Virt_lab_25.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap myFdeEDvr5M {
+            get {
+                object obj = ResourceManager.GetObject("myFdeEDvr5M", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap ruler_50_cm_measuring_tool_260nw_1243442011 {
             get {
                 object obj = ResourceManager.GetObject("ruler-50-cm-measuring-tool-260nw-1243442011", resourceCulture);
