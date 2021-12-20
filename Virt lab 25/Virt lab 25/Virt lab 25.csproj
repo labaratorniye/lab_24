@@ -169,6 +169,8 @@
     <None Include="Resources\T.png" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\Постоянный ток F.png" />
+    <None Include="Resources\Переменный ток F.png" />
     <None Include="Resources\40-50 1.png" />
     <None Include="Resources\30-40 1.png" />
     <None Include="Resources\30-50.png" />
