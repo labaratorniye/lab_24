@@ -253,6 +253,26 @@ namespace Virt_lab_25.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Переменный_ток_F {
+            get {
+                object obj = ResourceManager.GetObject("Переменный ток F", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Постоянный_ток_F {
+            get {
+                object obj = ResourceManager.GetObject("Постоянный ток F", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap стрелка {
             get {
                 object obj = ResourceManager.GetObject("стрелка", resourceCulture);
