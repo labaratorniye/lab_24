@@ -34,9 +34,9 @@ namespace Virt_lab_25
             this.textBoxName = new System.Windows.Forms.TextBox();
             this.textBoxGroup = new System.Windows.Forms.TextBox();
             this.name = new System.Windows.Forms.Label();
-            this.@group = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // enterRegister
@@ -63,7 +63,7 @@ namespace Virt_lab_25
             // 
             this.textBoxName.Location = new System.Drawing.Point(134, 69);
             this.textBoxName.Name = "textBoxName";
-            this.textBoxName.Size = new System.Drawing.Size(100, 20);
+            this.textBoxName.Size = new System.Drawing.Size(100, 22);
             this.textBoxName.TabIndex = 2;
             this.textBoxName.TextChanged += new System.EventHandler(this.textBoxName_TextChanged);
             // 
@@ -71,26 +71,17 @@ namespace Virt_lab_25
             // 
             this.textBoxGroup.Location = new System.Drawing.Point(134, 95);
             this.textBoxGroup.Name = "textBoxGroup";
-            this.textBoxGroup.Size = new System.Drawing.Size(100, 20);
+            this.textBoxGroup.Size = new System.Drawing.Size(100, 22);
             this.textBoxGroup.TabIndex = 3;
             // 
             // name
             // 
             this.name.AutoSize = true;
-            this.name.Location = new System.Drawing.Point(41, 76);
+            this.name.Location = new System.Drawing.Point(17, 75);
             this.name.Name = "name";
-            this.name.Size = new System.Drawing.Size(87, 13);
+            this.name.Size = new System.Drawing.Size(111, 17);
             this.name.TabIndex = 4;
             this.name.Text = "Имя и фамилия";
-            // 
-            // group
-            // 
-            this.@group.AutoSize = true;
-            this.@group.Location = new System.Drawing.Point(86, 98);
-            this.@group.Name = "group";
-            this.@group.Size = new System.Drawing.Size(42, 13);
-            this.@group.TabIndex = 5;
-            this.@group.Text = "Группа";
             // 
             // button1
             // 
@@ -104,13 +95,21 @@ namespace Virt_lab_25
             // 
             // label1
             // 
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (204)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label1.Location = new System.Drawing.Point(12, 21);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(245, 45);
             this.label1.TabIndex = 7;
-            this.label1.Text = "Определение ускорения свободного падения";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
+            this.label1.Text = "Определение коэффициента самоиндукции катушки";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(57, 98);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(55, 17);
+            this.label2.TabIndex = 8;
+            this.label2.Text = "Группа";
             // 
             // Register
             // 
@@ -119,9 +118,9 @@ namespace Virt_lab_25
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.ClientSize = new System.Drawing.Size(271, 238);
             this.ControlBox = false;
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
-            this.Controls.Add(this.@group);
             this.Controls.Add(this.name);
             this.Controls.Add(this.textBoxGroup);
             this.Controls.Add(this.textBoxName);
@@ -135,6 +134,7 @@ namespace Virt_lab_25
             this.Load += new System.EventHandler(this.Register_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
+
         }
 
         private System.Windows.Forms.Label label1;
@@ -148,5 +148,6 @@ namespace Virt_lab_25
         private System.Windows.Forms.Label name;
         private System.Windows.Forms.Label @group;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Label label2;
     }
 }
