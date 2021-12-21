@@ -39,9 +39,10 @@ namespace Virt_lab_25
             // 
             // exportProtocol
             // 
-            this.exportProtocol.Location = new System.Drawing.Point(40, 375);
+            this.exportProtocol.Location = new System.Drawing.Point(53, 462);
+            this.exportProtocol.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.exportProtocol.Name = "exportProtocol";
-            this.exportProtocol.Size = new System.Drawing.Size(744, 63);
+            this.exportProtocol.Size = new System.Drawing.Size(992, 78);
             this.exportProtocol.TabIndex = 0;
             this.exportProtocol.Text = "Экспортировать протокол";
             this.exportProtocol.UseVisualStyleBackColor = true;
@@ -49,13 +50,13 @@ namespace Virt_lab_25
             // 
             // label1
             // 
-            this.label1.Font = new System.Drawing.Font("MS Reference Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (204)));
-            this.label1.Location = new System.Drawing.Point(40, 42);
+            this.label1.Font = new System.Drawing.Font("MS Reference Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label1.Location = new System.Drawing.Point(53, 52);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(744, 330);
+            this.label1.Size = new System.Drawing.Size(992, 406);
             this.label1.TabIndex = 2;
             this.label1.Text = "label1";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // openFileDialog1
             // 
@@ -63,16 +64,18 @@ namespace Virt_lab_25
             // 
             // Protocol
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(824, 450);
+            this.ClientSize = new System.Drawing.Size(1099, 554);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.exportProtocol);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Protocol";
             this.Text = "Пртокол";
             this.Load += new System.EventHandler(this.Protocol_Load);
             this.ResumeLayout(false);
+
         }
 
         private System.Windows.Forms.SaveFileDialog saveFileDialog1;
