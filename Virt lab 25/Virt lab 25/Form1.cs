@@ -533,20 +533,6 @@ namespace Virt_lab_25
             textBox2.Text = "";
         }
 
-        private void dataGridView2_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void richTextBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
 
         private void trackBar1_Scroll(object sender, EventArgs e)
         {

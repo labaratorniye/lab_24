@@ -46,5 +46,10 @@ namespace Virt_lab_25
         {
 
         }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
