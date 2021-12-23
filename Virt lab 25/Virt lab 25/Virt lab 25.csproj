@@ -169,6 +169,7 @@
     <None Include="Resources\T.png" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\Z.png" />
     <None Include="Resources\Постоянный ток F.png" />
     <None Include="Resources\Переменный ток F.png" />
     <None Include="Resources\40-50 1.png" />
@@ -183,6 +184,8 @@
     <None Include="Resources\unknown3.png" />
     <None Include="Resources\unknown2.png" />
     <None Include="Resources\unknown.png" />
+    <None Include="Resources\I.png" />
+    <None Include="Resources\L.png" />
     <Content Include="Resources\vipoln1.png" />
     <None Include="Resources\тест 2.png" />
     <None Include="Resources\тест.png" />
