@@ -18,8 +18,8 @@ namespace Virt_lab_25
         
         
         
-        public string fullName = "";
-        public string groupName = "";
+        public string полноеИмя = "";
+        public string группаИмя = "";
         public string workName = "Лабораторная работа 'Определение коэффициента самоиндукции катушки'";
         
         public string fullnameDecrypted = "";
@@ -30,7 +30,7 @@ namespace Virt_lab_25
         public string minimumLenghtDecrypted = "";
         public string maximumLenghtDecrypted = "";
         
-        public int countErrors = 0;
+        public int количествоОшибок = 0;
 
         public bool isWorkWasSuccess = true;
         
@@ -46,18 +46,18 @@ namespace Virt_lab_25
         {
             if (isWorkWasSuccess)
             {
-                if (countErrors == 0)
+                if (количествоОшибок == 0)
                 {
-                    label1.Text = "Время выполнения работы: " + currentDate + "\n" + workName + "\nФИО:  " + fullName + "\nГруппа: " + groupName + "\nЛабораторная работа выполнена успешно." +  "\nКоличество ошибок: " + countErrors.ToString();
+                    label1.Text = "Время выполнения работы: " + currentDate + "\n" + workName + "\nФИО:  " + полноеИмя + "\nГруппа: " + группаИмя + "\nЛабораторная работа выполнена успешно." +  "\nКоличество ошибок: " + количествоОшибок.ToString();
                 }
                 else
                 {
-                    label1.Text = "Время выполнения работы: " + currentDate + "\n" + workName + "\nФИО:  " + fullName + "\nГруппа: " + groupName + "\nЛабораторная работа выполнена с ошибками."  +  "\nКоличество ошибок: " + countErrors.ToString();
+                    label1.Text = "Время выполнения работы: " + currentDate + "\n" + workName + "\nФИО:  " + полноеИмя + "\nГруппа: " + группаИмя + "\nЛабораторная работа выполнена с ошибками."  +  "\nКоличество ошибок: " + количествоОшибок.ToString();
                 }
             }
             else
             {
-                label1.Text = "Время выполнения работы: " + currentDate + "\n" + workName + "\nФИО:  " + fullName + "\nГруппа: " + groupName + "\nЛабораторная работа выполнена не до конца/не выполнена." ;
+                label1.Text = "Время выполнения работы: " + currentDate + "\n" + workName + "\nФИО:  " + полноеИмя + "\nГруппа: " + группаИмя + "\nЛабораторная работа выполнена не до конца/не выполнена." ;
                 exportProtocol.Enabled = false;
             }
                 
@@ -70,9 +70,9 @@ namespace Virt_lab_25
             var str = label1.Text;
             var encryptedString = AesOperation.EncryptString(key, str);
 
-            var nameEncrypted = AesOperation.EncryptString(key, fullName);
-            var groupNameEncrypted = AesOperation.EncryptString(key, groupName);
-            var countErrorsEncrypted = AesOperation.EncryptString(key, countErrors.ToString());
+            var nameEncrypted = AesOperation.EncryptString(key, полноеИмя);
+            var groupNameEncrypted = AesOperation.EncryptString(key, группаИмя);
+            var countErrorsEncrypted = AesOperation.EncryptString(key, количествоОшибок.ToString());
             var workNameEncrypted = AesOperation.EncryptString(key, workName);
             var currentDateEncrypted = AesOperation.EncryptString(key, currentDate.ToString());
           
