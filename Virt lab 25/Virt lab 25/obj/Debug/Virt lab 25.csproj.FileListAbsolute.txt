@@ -277,3 +277,18 @@ C:\Users\tjuri\Source\Repos\lab_24f\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 2
 C:\Users\tjuri\Source\Repos\lab_24f\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.CoreCompileInputs.cache
 C:\Users\tjuri\Source\Repos\lab_24f\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.exe
 C:\Users\tjuri\Source\Repos\lab_24f\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.pdb
+C:\Users\clixo\RiderProjects\lab_241\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe.config
+C:\Users\clixo\RiderProjects\lab_241\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.exe
+C:\Users\clixo\RiderProjects\lab_241\Virt lab 25\Virt lab 25\bin\Debug\Virt lab 25.pdb
+C:\Users\clixo\RiderProjects\lab_241\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.AssemblyReference.cache
+C:\Users\clixo\RiderProjects\lab_241\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form1.resources
+C:\Users\clixo\RiderProjects\lab_241\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form2.resources
+C:\Users\clixo\RiderProjects\lab_241\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Form3.resources
+C:\Users\clixo\RiderProjects\lab_241\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Properties.Resources.resources
+C:\Users\clixo\RiderProjects\lab_241\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Protocol.resources
+C:\Users\clixo\RiderProjects\lab_241\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.ProtocolImport.resources
+C:\Users\clixo\RiderProjects\lab_241\Virt lab 25\Virt lab 25\obj\Debug\Virt_lab_25.Register.resources
+C:\Users\clixo\RiderProjects\lab_241\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.GenerateResource.cache
+C:\Users\clixo\RiderProjects\lab_241\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.csproj.CoreCompileInputs.cache
+C:\Users\clixo\RiderProjects\lab_241\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.exe
+C:\Users\clixo\RiderProjects\lab_241\Virt lab 25\Virt lab 25\obj\Debug\Virt lab 25.pdb
