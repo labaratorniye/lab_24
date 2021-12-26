@@ -30,9 +30,9 @@ namespace Virt_lab_25
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle16 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle17 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle18 = new System.Windows.Forms.DataGridViewCellStyle();
             this.closemain = new System.Windows.Forms.Button();
             this.Button2 = new System.Windows.Forms.Button();
             this.check_Results = new System.Windows.Forms.Button();
@@ -92,7 +92,7 @@ namespace Virt_lab_25
             // 
             // closemain
             // 
-            this.closemain.Location = new System.Drawing.Point(611, 362);
+            this.closemain.Location = new System.Drawing.Point(593, 363);
             this.closemain.Name = "closemain";
             this.closemain.Size = new System.Drawing.Size(99, 43);
             this.closemain.TabIndex = 1;
@@ -102,7 +102,7 @@ namespace Virt_lab_25
             // 
             // Button2
             // 
-            this.Button2.Location = new System.Drawing.Point(507, 362);
+            this.Button2.Location = new System.Drawing.Point(489, 363);
             this.Button2.Name = "Button2";
             this.Button2.Size = new System.Drawing.Size(98, 43);
             this.Button2.TabIndex = 5;
@@ -113,7 +113,7 @@ namespace Virt_lab_25
             // check_Results
             // 
             this.check_Results.BackColor = System.Drawing.SystemColors.Window;
-            this.check_Results.Location = new System.Drawing.Point(507, 295);
+            this.check_Results.Location = new System.Drawing.Point(489, 296);
             this.check_Results.Name = "check_Results";
             this.check_Results.Size = new System.Drawing.Size(203, 61);
             this.check_Results.TabIndex = 19;
@@ -242,8 +242,8 @@ namespace Virt_lab_25
             // Column6
             // 
             this.Column6.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.ColumnHeader;
-            dataGridViewCellStyle4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.Column6.DefaultCellStyle = dataGridViewCellStyle4;
+            dataGridViewCellStyle16.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.Column6.DefaultCellStyle = dataGridViewCellStyle16;
             this.Column6.HeaderText = "R,(Ом)";
             this.Column6.MinimumWidth = 6;
             this.Column6.Name = "Column6";
@@ -310,8 +310,8 @@ namespace Virt_lab_25
             // Column12
             // 
             this.Column12.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.ColumnHeader;
-            dataGridViewCellStyle5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.Column12.DefaultCellStyle = dataGridViewCellStyle5;
+            dataGridViewCellStyle17.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.Column12.DefaultCellStyle = dataGridViewCellStyle17;
             this.Column12.HeaderText = "Z(Ом)";
             this.Column12.MinimumWidth = 6;
             this.Column12.Name = "Column12";
@@ -321,8 +321,8 @@ namespace Virt_lab_25
             // Column13
             // 
             this.Column13.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.ColumnHeader;
-            dataGridViewCellStyle6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.Column13.DefaultCellStyle = dataGridViewCellStyle6;
+            dataGridViewCellStyle18.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.Column13.DefaultCellStyle = dataGridViewCellStyle18;
             this.Column13.HeaderText = "L(Гн)";
             this.Column13.MinimumWidth = 6;
             this.Column13.Name = "Column13";
@@ -499,7 +499,7 @@ namespace Virt_lab_25
             // pictureBox5
             // 
             this.pictureBox5.Image = global::Virt_lab_25.Properties.Resources.I;
-            this.pictureBox5.Location = new System.Drawing.Point(12, 333);
+            this.pictureBox5.Location = new System.Drawing.Point(14, 353);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(66, 53);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -509,17 +509,18 @@ namespace Virt_lab_25
             // pictureBox4
             // 
             this.pictureBox4.Image = global::Virt_lab_25.Properties.Resources.L;
-            this.pictureBox4.Location = new System.Drawing.Point(185, 333);
+            this.pictureBox4.Location = new System.Drawing.Point(187, 353);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(131, 63);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.pictureBox4.TabIndex = 57;
             this.pictureBox4.TabStop = false;
+            this.pictureBox4.Click += new System.EventHandler(this.pictureBox4_Click);
             // 
             // pictureBox3
             // 
             this.pictureBox3.Image = global::Virt_lab_25.Properties.Resources.Z;
-            this.pictureBox3.Location = new System.Drawing.Point(95, 333);
+            this.pictureBox3.Location = new System.Drawing.Point(97, 353);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(84, 55);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -572,11 +573,12 @@ namespace Virt_lab_25
             // 
             this.label13.AutoSize = true;
             this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label13.Location = new System.Drawing.Point(9, 399);
+            this.label13.Location = new System.Drawing.Point(8, 320);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(463, 20);
             this.label13.TabIndex = 61;
             this.label13.Text = "Округляйте Z и R до 1-го, а L до 3-х значащих знаков";
+            this.label13.Click += new System.EventHandler(this.label13_Click);
             // 
             // Form1
             // 
@@ -585,7 +587,7 @@ namespace Virt_lab_25
             this.AutoSize = true;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.BackColor = System.Drawing.SystemColors.Window;
-            this.ClientSize = new System.Drawing.Size(722, 440);
+            this.ClientSize = new System.Drawing.Size(722, 417);
             this.ControlBox = false;
             this.Controls.Add(this.label13);
             this.Controls.Add(this.label12);

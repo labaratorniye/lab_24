@@ -723,5 +723,15 @@ namespace Virt_lab_25
             trackBar1.Enabled = true;
             trackBar1.Value = 0;
         }
+
+        private void label13_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
