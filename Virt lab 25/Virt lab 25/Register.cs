@@ -15,6 +15,7 @@ namespace Virt_lab_25
         public Register()
         {
             InitializeComponent();
+            MaximizeBox = false;
         }
         private void enterRegister_Click(object sender, EventArgs e)
         {
