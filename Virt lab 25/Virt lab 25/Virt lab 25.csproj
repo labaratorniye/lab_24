@@ -186,6 +186,10 @@
     <None Include="Resources\unknown4.png" />
     <None Include="Resources\unknown6.png" />
     <None Include="Resources\unknown5.png" />
+    <None Include="Resources\turn of work.PNG" />
+    <None Include="Resources\turn21.PNG" />
+    <None Include="Resources\turn of work1.PNG" />
+    <None Include="Resources\poryadok.PNG" />
     <Content Include="Resources\vipoln1.png" />
     <None Include="Resources\тест 2.png" />
     <None Include="Resources\тест.png" />
