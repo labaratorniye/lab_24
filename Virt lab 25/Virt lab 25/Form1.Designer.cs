@@ -78,6 +78,7 @@ namespace Virt_lab_25
             this.картинкаКоробка1 = new System.Windows.Forms.PictureBox();
             this.label12 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
+            this.label13 = new System.Windows.Forms.Label();
             this.toolStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.таблица1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.таблица2)).BeginInit();
@@ -567,6 +568,16 @@ namespace Virt_lab_25
             this.label11.TabIndex = 59;
             this.label11.Text = "ω = 2πν - круговая частота";
             // 
+            // label13
+            // 
+            this.label13.AutoSize = true;
+            this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label13.Location = new System.Drawing.Point(9, 399);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(463, 20);
+            this.label13.TabIndex = 61;
+            this.label13.Text = "Округляйте Z и R до 1-го, а L до 3-х значащих знаков";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -576,6 +587,7 @@ namespace Virt_lab_25
             this.BackColor = System.Drawing.SystemColors.Window;
             this.ClientSize = new System.Drawing.Size(722, 440);
             this.ControlBox = false;
+            this.Controls.Add(this.label13);
             this.Controls.Add(this.label12);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.pictureBox5);
@@ -674,6 +686,7 @@ namespace Virt_lab_25
         private System.Windows.Forms.PictureBox pictureBox3;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.Label label13;
     }
 }
 

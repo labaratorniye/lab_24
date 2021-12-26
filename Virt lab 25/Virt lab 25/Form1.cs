@@ -83,7 +83,7 @@ namespace Virt_lab_25
                         }
                     }
                     L = Math.Sqrt(Math.Pow(Z, 2) - Math.Pow(R, 2))/w;
-                    L = Math.Round(L, 4);
+                    L = Math.Round(L, 3);
                     if ((Z == Convert.ToDouble(таблица2.Rows[i].Cells[3].Value)) && (L == Convert.ToDouble(таблица2.Rows[i].Cells[4].Value)))
                     {
                         VarITrueAnswerCount++;
