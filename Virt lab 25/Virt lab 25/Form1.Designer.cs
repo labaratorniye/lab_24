@@ -30,9 +30,9 @@ namespace Virt_lab_25
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle52 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle53 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle54 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
             this.closemain = new System.Windows.Forms.Button();
             this.Button2 = new System.Windows.Forms.Button();
             this.check_Results = new System.Windows.Forms.Button();
@@ -189,7 +189,7 @@ namespace Virt_lab_25
             this.radioButton2.UseVisualStyleBackColor = true;
             this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
             // 
-            // dataGridView1
+            // таблица1
             // 
             this.таблица1.AllowUserToAddRows = false;
             this.таблица1.AllowUserToDeleteRows = false;
@@ -202,7 +202,7 @@ namespace Virt_lab_25
             this.Column6,
             this.Шаг1});
             this.таблица1.Location = new System.Drawing.Point(443, 28);
-            this.таблица1.Name = "dataGridView1";
+            this.таблица1.Name = "таблица1";
             this.таблица1.RowHeadersWidth = 51;
             this.таблица1.Size = new System.Drawing.Size(260, 242);
             this.таблица1.TabIndex = 33;
@@ -241,8 +241,8 @@ namespace Virt_lab_25
             // Column6
             // 
             this.Column6.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.ColumnHeader;
-            dataGridViewCellStyle52.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.Column6.DefaultCellStyle = dataGridViewCellStyle52;
+            dataGridViewCellStyle4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.Column6.DefaultCellStyle = dataGridViewCellStyle4;
             this.Column6.HeaderText = "R,(Ом)";
             this.Column6.MinimumWidth = 6;
             this.Column6.Name = "Column6";
@@ -257,7 +257,7 @@ namespace Virt_lab_25
             this.Шаг1.Visible = false;
             this.Шаг1.Width = 125;
             // 
-            // dataGridView2
+            // таблица2
             // 
             this.таблица2.AllowUserToAddRows = false;
             this.таблица2.AllowUserToDeleteRows = false;
@@ -271,7 +271,7 @@ namespace Virt_lab_25
             this.Column13,
             this.Шаг2});
             this.таблица2.Location = new System.Drawing.Point(443, 28);
-            this.таблица2.Name = "dataGridView2";
+            this.таблица2.Name = "таблица2";
             this.таблица2.RowHeadersWidth = 51;
             this.таблица2.Size = new System.Drawing.Size(265, 243);
             this.таблица2.TabIndex = 34;
@@ -309,8 +309,8 @@ namespace Virt_lab_25
             // Column12
             // 
             this.Column12.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.ColumnHeader;
-            dataGridViewCellStyle53.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.Column12.DefaultCellStyle = dataGridViewCellStyle53;
+            dataGridViewCellStyle5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.Column12.DefaultCellStyle = dataGridViewCellStyle5;
             this.Column12.HeaderText = "Z(Ом)";
             this.Column12.MinimumWidth = 6;
             this.Column12.Name = "Column12";
@@ -320,8 +320,8 @@ namespace Virt_lab_25
             // Column13
             // 
             this.Column13.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.ColumnHeader;
-            dataGridViewCellStyle54.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.Column13.DefaultCellStyle = dataGridViewCellStyle54;
+            dataGridViewCellStyle6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.Column13.DefaultCellStyle = dataGridViewCellStyle6;
             this.Column13.HeaderText = "L(Гн)";
             this.Column13.MinimumWidth = 6;
             this.Column13.Name = "Column13";
@@ -337,23 +337,23 @@ namespace Virt_lab_25
             this.Шаг2.Visible = false;
             this.Шаг2.Width = 125;
             // 
-            // richTextBox1
+            // богатаяТекстоваяКоробка1
             // 
             this.богатаяТекстоваяКоробка1.BackColor = System.Drawing.Color.White;
             this.богатаяТекстоваяКоробка1.Location = new System.Drawing.Point(443, 47);
-            this.богатаяТекстоваяКоробка1.Name = "richTextBox1";
+            this.богатаяТекстоваяКоробка1.Name = "богатаяТекстоваяКоробка1";
             this.богатаяТекстоваяКоробка1.ReadOnly = true;
-            this.богатаяТекстоваяКоробка1.Size = new System.Drawing.Size(265, 26);
+            this.богатаяТекстоваяКоробка1.Size = new System.Drawing.Size(263, 26);
             this.богатаяТекстоваяКоробка1.TabIndex = 35;
-            this.богатаяТекстоваяКоробка1.Text = "                       Катушка без сердченика";
+            this.богатаяТекстоваяКоробка1.Text = "                       Катушка без сердечника";
             // 
-            // richTextBox2
+            // богатаяТекстоваяКоробка2
             // 
             this.богатаяТекстоваяКоробка2.BackColor = System.Drawing.Color.White;
             this.богатаяТекстоваяКоробка2.Location = new System.Drawing.Point(443, 158);
-            this.богатаяТекстоваяКоробка2.Name = "richTextBox2";
+            this.богатаяТекстоваяКоробка2.Name = "богатаяТекстоваяКоробка2";
             this.богатаяТекстоваяКоробка2.ReadOnly = true;
-            this.богатаяТекстоваяКоробка2.Size = new System.Drawing.Size(265, 26);
+            this.богатаяТекстоваяКоробка2.Size = new System.Drawing.Size(263, 26);
             this.богатаяТекстоваяКоробка2.TabIndex = 36;
             this.богатаяТекстоваяКоробка2.Text = "                      Катушка с сердечником";
             // 
@@ -367,20 +367,20 @@ namespace Virt_lab_25
             this.label1.TabIndex = 39;
             this.label1.Text = "Выберете тип тока:";
             // 
-            // textBox1
+            // текстовоеПоле1
             // 
             this.текстовоеПоле1.Location = new System.Drawing.Point(281, 217);
-            this.текстовоеПоле1.Name = "textBox1";
+            this.текстовоеПоле1.Name = "текстовоеПоле1";
             this.текстовоеПоле1.ReadOnly = true;
             this.текстовоеПоле1.Size = new System.Drawing.Size(144, 20);
             this.текстовоеПоле1.TabIndex = 40;
             this.текстовоеПоле1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.текстовоеПоле1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
-            // textBox2
+            // текстовоеПоле2
             // 
             this.текстовоеПоле2.Location = new System.Drawing.Point(281, 261);
-            this.текстовоеПоле2.Name = "textBox2";
+            this.текстовоеПоле2.Name = "текстовоеПоле2";
             this.текстовоеПоле2.ReadOnly = true;
             this.текстовоеПоле2.Size = new System.Drawing.Size(144, 20);
             this.текстовоеПоле2.TabIndex = 41;
@@ -470,7 +470,7 @@ namespace Virt_lab_25
             this.label9.TabIndex = 50;
             this.label9.Text = "3";
             // 
-            // comboBox1
+            // комбоКоробка
             // 
             this.комбоКоробка.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.комбоКоробка.DropDownWidth = 146;
@@ -480,8 +480,8 @@ namespace Virt_lab_25
             "Катушка без сердечника",
             "Катушка с сердечником"});
             this.комбоКоробка.Location = new System.Drawing.Point(281, 92);
-            this.комбоКоробка.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.комбоКоробка.Name = "comboBox1";
+            this.комбоКоробка.Margin = new System.Windows.Forms.Padding(2);
+            this.комбоКоробка.Name = "комбоКоробка";
             this.комбоКоробка.Size = new System.Drawing.Size(149, 21);
             this.комбоКоробка.TabIndex = 51;
             this.комбоКоробка.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
@@ -525,23 +525,23 @@ namespace Virt_lab_25
             this.pictureBox3.TabIndex = 56;
             this.pictureBox3.TabStop = false;
             // 
-            // pictureBox2
+            // картинкаКоробка2
             // 
             this.картинкаКоробка2.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.картинкаКоробка2.Image = global::Virt_lab_25.Properties.Resources.Постоянный_ток_F;
             this.картинкаКоробка2.Location = new System.Drawing.Point(12, 30);
-            this.картинкаКоробка2.Name = "pictureBox2";
+            this.картинкаКоробка2.Name = "картинкаКоробка2";
             this.картинкаКоробка2.Size = new System.Drawing.Size(260, 221);
             this.картинкаКоробка2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.картинкаКоробка2.TabIndex = 38;
             this.картинкаКоробка2.TabStop = false;
             // 
-            // pictureBox1
+            // картинкаКоробка1
             // 
             this.картинкаКоробка1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.картинкаКоробка1.Image = global::Virt_lab_25.Properties.Resources.Переменный_ток_F;
             this.картинкаКоробка1.Location = new System.Drawing.Point(12, 30);
-            this.картинкаКоробка1.Name = "pictureBox1";
+            this.картинкаКоробка1.Name = "картинкаКоробка1";
             this.картинкаКоробка1.Size = new System.Drawing.Size(260, 221);
             this.картинкаКоробка1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.картинкаКоробка1.TabIndex = 30;
@@ -574,7 +574,7 @@ namespace Virt_lab_25
             this.AutoSize = true;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.BackColor = System.Drawing.SystemColors.Window;
-            this.ClientSize = new System.Drawing.Size(722, 417);
+            this.ClientSize = new System.Drawing.Size(722, 440);
             this.ControlBox = false;
             this.Controls.Add(this.label12);
             this.Controls.Add(this.label11);
