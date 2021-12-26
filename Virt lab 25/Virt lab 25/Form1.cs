@@ -16,12 +16,14 @@ namespace Virt_lab_25
     {
         public string groupName = "";
         public string name = "";
+    
         public Form1()
         {
             InitializeComponent();
         }
 
         int ErrorCount = 0;
+        bool rabotaKonec = false;
 
         private void check_Results_Click(object sender, System.EventArgs e)
         {
@@ -63,6 +65,7 @@ namespace Virt_lab_25
                 {
                     MessageBox.Show("Измерения постоянного тока вычислены неверно!", "Сообщение");
                     ErrorCount = ErrorCount + (4-ConstITrueAnswerCount);
+                    rabotaKonec = false;
                 }
                 for (int i = 0; i < 10; i++) // Проверка введённых значений переменного тока
                 {
@@ -88,11 +91,13 @@ namespace Virt_lab_25
                 if (VarITrueAnswerCount == 8)
                 {
                     MessageBox.Show("Измерения переменного тока вычислены верно!", "Сообщение");
+                    rabotaKonec = true;
                 }
                 else
                 {
                     MessageBox.Show("Измерения переменного тока вычислены неверно!", "Сообщение");
                     ErrorCount = ErrorCount + (8 - VarITrueAnswerCount);
+                    rabotaKonec = false;
                 }
             } 
             else 
@@ -616,9 +621,18 @@ namespace Virt_lab_25
 
         private void toolStripButton3_Click(object sender, EventArgs e)
         {
-            Protocol protocol = new Protocol();
-            protocol.groupName = groupName;
-            protocol.Show();
+            if (rabotaKonec)
+            {
+                Protocol protocol = new Protocol();
+                protocol.groupName = groupName;
+                protocol.fullName = name;
+                protocol.countErrors = ErrorCount;
+                protocol.Show();
+            } else
+            {
+                MessageBox.Show("Выполните работу в полном объеме!");
+            }
+            
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)

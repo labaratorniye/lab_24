@@ -169,12 +169,23 @@
     <None Include="Resources\T.png" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\Z.png" />
     <None Include="Resources\Постоянный ток F.png" />
     <None Include="Resources\Переменный ток F.png" />
     <None Include="Resources\40-50 1.png" />
     <None Include="Resources\30-40 1.png" />
     <None Include="Resources\30-50.png" />
     <None Include="Resources\myFdeEDvr5M.jpg" />
+    <None Include="Resources\I.png" />
+    <None Include="Resources\g1.png" />
+    <None Include="Resources\L.png" />
+    <None Include="Resources\turn2.PNG" />
+    <None Include="Resources\unknown.png" />
+    <None Include="Resources\unknown2.png" />
+    <None Include="Resources\unknown3.png" />
+    <None Include="Resources\unknown4.png" />
+    <None Include="Resources\unknown6.png" />
+    <None Include="Resources\unknown5.png" />
     <Content Include="Resources\vipoln1.png" />
     <None Include="Resources\тест 2.png" />
     <None Include="Resources\тест.png" />
