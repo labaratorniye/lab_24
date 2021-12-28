@@ -29,17 +29,14 @@ namespace Virt_lab_25
         /// </summary>
         private void InitializeComponent()
         {
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle67 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle68 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle69 = new System.Windows.Forms.DataGridViewCellStyle();
             this.closemain = new System.Windows.Forms.Button();
             this.Button2 = new System.Windows.Forms.Button();
             this.check_Results = new System.Windows.Forms.Button();
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
-            this.toolStripButton2 = new System.Windows.Forms.ToolStripButton();
-            this.toolStripButton1 = new System.Windows.Forms.ToolStripButton();
-            this.toolStripButton3 = new System.Windows.Forms.ToolStripButton();
             this.radioButton1 = new System.Windows.Forms.RadioButton();
             this.radioButton2 = new System.Windows.Forms.RadioButton();
             this.таблица1 = new System.Windows.Forms.DataGridView();
@@ -71,14 +68,17 @@ namespace Virt_lab_25
             this.label9 = new System.Windows.Forms.Label();
             this.комбоКоробка = new System.Windows.Forms.ComboBox();
             this.label10 = new System.Windows.Forms.Label();
+            this.label12 = new System.Windows.Forms.Label();
+            this.label11 = new System.Windows.Forms.Label();
+            this.label13 = new System.Windows.Forms.Label();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.картинкаКоробка2 = new System.Windows.Forms.PictureBox();
             this.картинкаКоробка1 = new System.Windows.Forms.PictureBox();
-            this.label12 = new System.Windows.Forms.Label();
-            this.label11 = new System.Windows.Forms.Label();
-            this.label13 = new System.Windows.Forms.Label();
+            this.toolStripButton2 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripButton1 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripButton3 = new System.Windows.Forms.ToolStripButton();
             this.toolStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.таблица1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.таблица2)).BeginInit();
@@ -92,7 +92,7 @@ namespace Virt_lab_25
             // 
             // closemain
             // 
-            this.closemain.Location = new System.Drawing.Point(638, 368);
+            this.closemain.Location = new System.Drawing.Point(660, 368);
             this.closemain.Name = "closemain";
             this.closemain.Size = new System.Drawing.Size(99, 43);
             this.closemain.TabIndex = 1;
@@ -102,7 +102,7 @@ namespace Virt_lab_25
             // 
             // Button2
             // 
-            this.Button2.Location = new System.Drawing.Point(534, 368);
+            this.Button2.Location = new System.Drawing.Point(556, 368);
             this.Button2.Name = "Button2";
             this.Button2.Size = new System.Drawing.Size(98, 43);
             this.Button2.TabIndex = 5;
@@ -113,7 +113,7 @@ namespace Virt_lab_25
             // check_Results
             // 
             this.check_Results.BackColor = System.Drawing.SystemColors.Window;
-            this.check_Results.Location = new System.Drawing.Point(534, 301);
+            this.check_Results.Location = new System.Drawing.Point(556, 301);
             this.check_Results.Name = "check_Results";
             this.check_Results.Size = new System.Drawing.Size(203, 61);
             this.check_Results.TabIndex = 19;
@@ -134,37 +134,6 @@ namespace Virt_lab_25
             this.toolStrip1.Size = new System.Drawing.Size(794, 25);
             this.toolStrip1.TabIndex = 29;
             this.toolStrip1.Text = "toolStrip1";
-            // 
-            // toolStripButton2
-            // 
-            this.toolStripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text;
-            this.toolStripButton2.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.toolStripButton2.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton2.Image")));
-            this.toolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.toolStripButton2.Name = "toolStripButton2";
-            this.toolStripButton2.Size = new System.Drawing.Size(156, 22);
-            this.toolStripButton2.Text = "Методические материалы";
-            this.toolStripButton2.Click += new System.EventHandler(this.toolStripButton2_Click);
-            // 
-            // toolStripButton1
-            // 
-            this.toolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text;
-            this.toolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton1.Image")));
-            this.toolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.toolStripButton1.Name = "toolStripButton1";
-            this.toolStripButton1.Size = new System.Drawing.Size(175, 22);
-            this.toolStripButton1.Text = "Порядок выполнения работы";
-            this.toolStripButton1.Click += new System.EventHandler(this.toolStripButton1_Click);
-            // 
-            // toolStripButton3
-            // 
-            this.toolStripButton3.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text;
-            this.toolStripButton3.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton3.Image")));
-            this.toolStripButton3.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.toolStripButton3.Name = "toolStripButton3";
-            this.toolStripButton3.Size = new System.Drawing.Size(66, 22);
-            this.toolStripButton3.Text = "Протокол";
-            this.toolStripButton3.Click += new System.EventHandler(this.toolStripButton3_Click);
             // 
             // radioButton1
             // 
@@ -244,8 +213,8 @@ namespace Virt_lab_25
             // Column6
             // 
             this.Column6.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.ColumnHeader;
-            dataGridViewCellStyle67.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.Column6.DefaultCellStyle = dataGridViewCellStyle67;
+            dataGridViewCellStyle1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.Column6.DefaultCellStyle = dataGridViewCellStyle1;
             this.Column6.HeaderText = "R,(Ом)";
             this.Column6.MinimumWidth = 6;
             this.Column6.Name = "Column6";
@@ -312,8 +281,8 @@ namespace Virt_lab_25
             // Column12
             // 
             this.Column12.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.ColumnHeader;
-            dataGridViewCellStyle68.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.Column12.DefaultCellStyle = dataGridViewCellStyle68;
+            dataGridViewCellStyle2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.Column12.DefaultCellStyle = dataGridViewCellStyle2;
             this.Column12.HeaderText = "Z(Ом)";
             this.Column12.MinimumWidth = 6;
             this.Column12.Name = "Column12";
@@ -323,8 +292,8 @@ namespace Virt_lab_25
             // Column13
             // 
             this.Column13.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.ColumnHeader;
-            dataGridViewCellStyle69.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.Column13.DefaultCellStyle = dataGridViewCellStyle69;
+            dataGridViewCellStyle3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.Column13.DefaultCellStyle = dataGridViewCellStyle3;
             this.Column13.HeaderText = "L(Гн)";
             this.Column13.MinimumWidth = 6;
             this.Column13.Name = "Column13";
@@ -506,6 +475,37 @@ namespace Virt_lab_25
             this.label10.TabIndex = 52;
             this.label10.Text = "4";
             // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label12.Location = new System.Drawing.Point(12, 295);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(331, 20);
+            this.label12.TabIndex = 60;
+            this.label12.Text = "ν = 50 Гц  - частота переменного тока";
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label11.Location = new System.Drawing.Point(12, 259);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(232, 20);
+            this.label11.TabIndex = 59;
+            this.label11.Text = "ω = 2πν - круговая частота";
+            // 
+            // label13
+            // 
+            this.label13.AutoSize = true;
+            this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label13.Location = new System.Drawing.Point(8, 320);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(492, 20);
+            this.label13.TabIndex = 61;
+            this.label13.Text = "Округляйте Z и R до десятых, а L до тысячных значений";
+            this.label13.Click += new System.EventHandler(this.label13_Click);
+            // 
             // pictureBox5
             // 
             this.pictureBox5.Image = global::Virt_lab_25.Properties.Resources.I;
@@ -559,36 +559,36 @@ namespace Virt_lab_25
             this.картинкаКоробка1.TabIndex = 30;
             this.картинкаКоробка1.TabStop = false;
             // 
-            // label12
+            // toolStripButton2
             // 
-            this.label12.AutoSize = true;
-            this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label12.Location = new System.Drawing.Point(12, 295);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(331, 20);
-            this.label12.TabIndex = 60;
-            this.label12.Text = "ν = 50 Гц  - частота переменного тока";
+            this.toolStripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text;
+            this.toolStripButton2.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.toolStripButton2.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton2.Image")));
+            this.toolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButton2.Name = "toolStripButton2";
+            this.toolStripButton2.Size = new System.Drawing.Size(156, 22);
+            this.toolStripButton2.Text = "Методические материалы";
+            this.toolStripButton2.Click += new System.EventHandler(this.toolStripButton2_Click);
             // 
-            // label11
+            // toolStripButton1
             // 
-            this.label11.AutoSize = true;
-            this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label11.Location = new System.Drawing.Point(12, 259);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(232, 20);
-            this.label11.TabIndex = 59;
-            this.label11.Text = "ω = 2πν - круговая частота";
+            this.toolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text;
+            this.toolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton1.Image")));
+            this.toolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButton1.Name = "toolStripButton1";
+            this.toolStripButton1.Size = new System.Drawing.Size(175, 22);
+            this.toolStripButton1.Text = "Порядок выполнения работы";
+            this.toolStripButton1.Click += new System.EventHandler(this.toolStripButton1_Click);
             // 
-            // label13
+            // toolStripButton3
             // 
-            this.label13.AutoSize = true;
-            this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label13.Location = new System.Drawing.Point(8, 320);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(492, 20);
-            this.label13.TabIndex = 61;
-            this.label13.Text = "Округляйте Z и R до десятых, а L до тысячных значений";
-            this.label13.Click += new System.EventHandler(this.label13_Click);
+            this.toolStripButton3.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text;
+            this.toolStripButton3.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton3.Image")));
+            this.toolStripButton3.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButton3.Name = "toolStripButton3";
+            this.toolStripButton3.Size = new System.Drawing.Size(66, 22);
+            this.toolStripButton3.Text = "Протокол";
+            this.toolStripButton3.Click += new System.EventHandler(this.toolStripButton3_Click);
             // 
             // Form1
             // 
