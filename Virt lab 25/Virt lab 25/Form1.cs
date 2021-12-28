@@ -568,6 +568,7 @@ namespace Virt_lab_25
 
         private void Form1_Load(object sender, EventArgs e)
         {
+
             таблица1.Hide();
             таблица2.Hide();
             таблица1.ForeColor = Color.Black;

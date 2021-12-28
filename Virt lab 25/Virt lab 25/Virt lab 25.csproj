@@ -190,6 +190,7 @@
     <None Include="Resources\turn21.PNG" />
     <None Include="Resources\turn of work1.PNG" />
     <None Include="Resources\poryadok.PNG" />
+    <None Include="Resources\turnlast.PNG" />
     <Content Include="Resources\vipoln1.png" />
     <None Include="Resources\тест 2.png" />
     <None Include="Resources\тест.png" />
