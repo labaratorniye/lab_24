@@ -45,7 +45,7 @@ namespace Virt_lab_25
             }
             if ((counttable1 == 4) && (counttable2 == 16))
             {
-                double I, R=0, U, Z, L, V = 50, w = 2 * Math.PI * V; 
+                double I, R=0, U, Z, L, V = 50, w = 2 * Math.PI * V, Ieff, Ueff; 
                 int ConstITrueAnswerCount=0, VarITrueAnswerCount=0, StepTable1;
                 for (int i = 0; i < 4; i++) // Проверка введённых значений постоянного тока
                 {
@@ -71,15 +71,17 @@ namespace Virt_lab_25
                 for (int i = 0; i < 10; i++) // Проверка введённых значений переменного тока
                 {
                     StepTable1 = Convert.ToInt32(таблица2.Rows[i].Cells[5].Value); // Типо id
-                    I = Convert.ToDouble(таблица2.Rows[i].Cells[1].Value);
-                    U = Convert.ToDouble(таблица2.Rows[i].Cells[2].Value);
-                    Z = U / I;
+                    Ieff = Convert.ToDouble(таблица2.Rows[i].Cells[1].Value);
+                    Ueff = Convert.ToDouble(таблица2.Rows[i].Cells[2].Value);
+                    Z = Ueff / Ieff;
                     Z = Math.Round(Z, 1);
                     for (int j = 0; j < 4; j++) // Поиск нужного сопротивления постоянного тока
                     {
-                        if (StepTable1 == Convert.ToInt32(таблица1.Rows[j].Cells[4].Value))
+                        if (StepTable1 == Convert.ToInt32(таблица1.Rows[j].Cells[4].Value)) // Шаг из 1-ой и 2-ой таблицы
                         {
-                            R = Convert.ToDouble(таблица1.Rows[j].Cells[3].Value);
+                            I = Convert.ToDouble(таблица1.Rows[j].Cells[1].Value);
+                            U = Convert.ToDouble(таблица1.Rows[j].Cells[2].Value);
+                            R = U / I;
                         }
                     }
                     L = Math.Sqrt(Math.Pow(Z, 2) - Math.Pow(R, 2))/w;
